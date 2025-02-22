@@ -1,12 +1,42 @@
-<h1 align="center">Hi 👋, I'm Vaibhav Pawar</h1>
-<h3 align="center">Detail-oriented and highly motivated Software Tester with a strong foundation in manual testing, automation testing (Selenium, TestNG, Cucumber), and API automation (Postman, RestAssured). Skilled in designing and executing test cases, identifying defects, and ensuring software quality. Proficient in SDLC, STLC, and Agile methodologies, with hands-on experience in writing test scripts, regression testing, and bug tracking using JIRA. Passionate about delivering high-quality software solutions and eager to contribute to a dynamic QA team.</h3>
+![Header](https://github.com/yourusername/banner.png)
 
-- 📫 How to reach me **pawarvaibhav2424@gmail.com**
+# 👋 Hi, I'm Vaibhav Pawar! 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/vaiibhav-pawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vaiibhav-pawar" height="30" width="40" /></a>
-</p>
+## 🚀 Software Tester | Automation & Manual Testing Enthusiast  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+💻 Passionate about software quality, I specialize in ensuring robust and reliable applications through automation and manual testing. 
+
+## 📖 About Me
+
+I am a dedicated Software Tester with a strong foundation in automation and manual testing. I have experience in writing test scripts, executing test cases, and automating test processes to improve software quality. My expertise includes working with various testing tools and technologies such as Selenium, TestNG, Cucumber, Rest Assured, and Postman. I am always eager to learn new testing methodologies and tools to enhance my skills and contribute effectively to software development projects. 
+
+### 🛠 Tech Stack:
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![RestAssured](https://img.shields.io/badge/RestAssured-000000?style=for-the-badge&logo=rest-assured&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FFCA28?style=for-the-badge&logo=testng&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
+
+### 🔥 GitHub Stats:
+
+![Vaibhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+### 📌 Top Repositories:
+
+- 🚀 [Automation Testing Framework](https://github.com/yourusername/automation-framework)
+- 📡 [API Testing with Rest Assured](https://github.com/yourusername/api-testing)
+- 🎭 [Selenium + Cucumber Integration](https://github.com/yourusername/selenium-cucumber)
+
+### 📫 Let's Connect:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedinprofile)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+
+⚡ **Always learning, exploring, and improving!** 🚀
