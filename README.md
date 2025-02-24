@@ -28,9 +28,10 @@ I am a dedicated Software Tester with a strong foundation in automation and manu
 
 ![Vaibhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-### 📌 Top Repositories:
+### 📌 Projects:
 
-- 🚀 [Automation_Testing](https://github.com/Vaibhav-24-tester/Automation_Testing)
+- 🚀 [Automation_Framework](https://github.com/Vaibhav-24-tester/Automation_Testing/tree/master/Framework)
+- 🚀 [RESTassuredAutmation](https://github.com/Vaibhav-24-tester/Automation_Testing/tree/master/RESTassuredAutmation)
 
 ### 📫 Let's Connect:
 
